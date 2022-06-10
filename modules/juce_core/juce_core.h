@@ -102,7 +102,7 @@
     class and the JUCE_LEAK_DETECTOR macro for more details about enabling leak checking for specific classes.
 */
 #if JUCE_DEBUG && ! defined (JUCE_CHECK_MEMORY_LEAKS)
- #define JUCE_CHECK_MEMORY_LEAKS 1
+// #define JUCE_CHECK_MEMORY_LEAKS 1
 #endif
 
 //==============================================================================

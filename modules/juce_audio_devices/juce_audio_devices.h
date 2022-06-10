@@ -85,7 +85,7 @@
     info about this.
 */
 #ifndef JUCE_ASIO
- #define JUCE_ASIO 0
+ #define JUCE_ASIO 1
 #endif
 
 /** Config: JUCE_WASAPI
